@@ -20,7 +20,7 @@ research = {
 
 **AI Engineer · Blue Raven**  
 Permanent part-time · September 2025 to present  
-AI-native company focused on preventing financial fraud. Currently operating in stealth mode.
+AI-native company focused on preventing financial fraud.
 
 ## Research areas
 
