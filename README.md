@@ -1,44 +1,34 @@
 <div align="center">
 
-![Yasaman Ahmadiadli — PhD researcher in deepfake detection](./assets/github-profile-hero.svg)
+![Yasmin — PhD researcher in deepfake detection](./assets/github-profile-hero.svg)
 
 </div>
 
-I am a PhD researcher in Electrical and Computer Engineering at Toronto Metropolitan University, working on **identity-independent deepfake detection**. My research asks a simple but important question: can a detector learn the traces of manipulation without quietly learning who the person is?
+### Welcome to my corner of the map.
 
-My work spans audio and video, with a current emphasis on speech deepfakes, emotion-aware representations, cross-dataset generalization, and measuring identity leakage in learned features.
+I’m **Yasmin**, a PhD researcher in Electrical and Computer Engineering at Toronto Metropolitan University. I study the signals left behind when audio or video is manipulated—and how to stop detection models from taking the easy route by memorizing identities.
 
-### Research focus
+> **My guiding rule:** learn the artifact, not the person.
 
-```text
-deepfake detection     ████████████████████  audio + video
-identity independence  ███████████████████░  representation learning
-emotion & speech       ████████████████░░░░  affective cues
-generalization         ██████████████████░░  cross-dataset evaluation
-```
+#### The research trail
 
-- Detecting synthetic and manipulated speech across speakers and datasets
-- Separating manipulation cues from speaker-identity shortcuts
-- Using emotion and linguistic information without turning identity into the signal
-- Evaluating models beyond a single benchmark or a single “best” checkpoint
+- 🎧 **Synthetic speech** — detecting generated and manipulated audio
+- 🎞️ **Audio-visual forensics** — reasoning across sound and vision
+- 🧭 **Identity independence** — finding and reducing identity shortcuts
+- 🌍 **Generalization** — testing beyond one dataset or familiar conditions
+- 🧠 **Emotion and representation learning** — exploring complementary signals responsibly
 
-### Selected publication
+#### From the archive
 
 **A Survey on Speech Deepfake Detection**  
-ACM Computing Surveys, 2025 · [DOI: 10.1145/3714458](https://doi.org/10.1145/3714458)
+*ACM Computing Surveys*, 2025 · [DOI: 10.1145/3714458](https://doi.org/10.1145/3714458)
 
-### Research stack
+#### Tools carried along the way
 
 `Python` · `PyTorch` · `Hugging Face` · `wav2vec 2.0 / XLS-R` · `audio signal processing` · `computer vision` · `representation learning`
 
-### Current direction
+#### Elsewhere
 
-```python
-objective = {
-    "detect": "manipulation artifacts",
-    "avoid": "speaker identity shortcuts",
-    "generalize": "across datasets and unseen conditions",
-}
-```
+[Academic website](https://yasamanadl94.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=V6eIVVYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/yahmadiadli/) · [ORCID](https://orcid.org/0000-0003-0740-9557)
 
-<sub>Toronto, Canada · Open to research conversations on trustworthy audio-visual AI and deepfake detection.</sub>
+<sub>Toronto, Canada · Following artifacts, questioning shortcuts, and occasionally negotiating with GPUs.</sub>
