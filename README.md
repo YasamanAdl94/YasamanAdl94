@@ -8,14 +8,6 @@
 
 I’m **Yasmin**, a PhD researcher in Electrical and Computer Engineering at Toronto Metropolitan University. I design and evaluate deepfake detection systems that identify manipulation signals without relying on speaker or facial identity as a shortcut.
 
-```python
-research = {
-    "focus": "identity-independent deepfake detection",
-    "modalities": ["audio", "video", "emotion"],
-    "priority": "generalization beyond familiar datasets",
-}
-```
-
 ## Current role
 
 **AI Engineer · Blue Raven**  
