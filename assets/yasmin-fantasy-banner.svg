@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Yasmin — deepfake detection researcher</title>
+  <desc id="desc">A high-fantasy manuscript-inspired research banner in midnight blue, emerald, oxblood, and antique gold.</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061923"/>
+      <stop offset="0.55" stop-color="#0a2730"/>
+      <stop offset="1" stop-color="#07171f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#d1b36b" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#d1b36b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="stars" width="88" height="64" patternUnits="userSpaceOnUse">
+      <circle cx="11" cy="17" r="1" fill="#d8c083" opacity="0.44"/>
+      <circle cx="61" cy="44" r="0.8" fill="#d8c083" opacity="0.30"/>
+      <circle cx="82" cy="8" r="0.6" fill="#d8c083" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="320" rx="24" fill="url(#night)"/>
+  <rect width="1000" height="320" rx="24" fill="url(#stars)"/>
+  <ellipse cx="500" cy="155" rx="390" ry="190" fill="url(#glow)"/>
+  <rect x="3" y="3" width="994" height="314" rx="21" fill="none" stroke="#b99a55" stroke-width="2"/>
+  <rect x="12" y="12" width="976" height="296" rx="16" fill="none" stroke="#2c755d" stroke-width="1" opacity="0.9"/>
+
+  <!-- original botanical corner ornaments -->
+  <g fill="none" stroke="#2f8064" stroke-width="2" stroke-linecap="round">
+    <path d="M33 134 C60 105 66 67 101 39"/>
+    <path d="M52 109 C37 98 34 84 36 70 M64 91 C82 91 93 81 99 65 M76 69 C63 59 61 47 66 34"/>
+    <path d="M967 186 C940 215 934 253 899 281"/>
+    <path d="M948 211 C963 222 966 236 964 250 M936 229 C918 229 907 239 901 255 M924 251 C937 261 939 273 934 286"/>
+  </g>
+  <g fill="#164b3b" stroke="#3b8f71" stroke-width="1">
+    <ellipse cx="42" cy="83" rx="6" ry="13" transform="rotate(-34 42 83)"/>
+    <ellipse cx="89" cy="72" rx="6" ry="13" transform="rotate(51 89 72)"/>
+    <ellipse cx="68" cy="52" rx="6" ry="12" transform="rotate(-30 68 52)"/>
+    <ellipse cx="958" cy="237" rx="6" ry="13" transform="rotate(-34 958 237)"/>
+    <ellipse cx="911" cy="248" rx="6" ry="13" transform="rotate(51 911 248)"/>
+    <ellipse cx="932" cy="268" rx="6" ry="12" transform="rotate(-30 932 268)"/>
+  </g>
+
+  <!-- restrained map contours -->
+  <g fill="none" stroke="#8e7440" stroke-width="1" opacity="0.28">
+    <path d="M650 32 C727 60 747 20 830 52 S927 70 972 40"/>
+    <path d="M632 48 C720 85 752 39 830 70 S920 86 975 60"/>
+    <path d="M24 273 C108 239 164 294 242 256 S358 248 404 285"/>
+    <path d="M30 290 C111 257 170 308 252 274 S352 267 396 299"/>
+  </g>
+
+  <!-- seal and title -->
+  <circle cx="153" cy="160" r="76" fill="#5b1d28" stroke="#c2a45e" stroke-width="3"/>
+  <circle cx="153" cy="160" r="63" fill="none" stroke="#d1b36b" stroke-width="1" opacity="0.8"/>
+  <path d="M119 173 C136 146 143 123 153 103 C164 126 172 149 188 173 C171 165 162 167 153 190 C144 167 136 165 119 173 Z" fill="none" stroke="#d1b36b" stroke-width="2"/>
+  <circle cx="153" cy="159" r="6" fill="#d1b36b"/>
+
+  <text x="268" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="59" font-weight="700" letter-spacing="7" fill="#ead9a5">YASMIN</text>
+  <path d="M270 132 H727" stroke="#b99a55" stroke-width="1"/>
+  <circle cx="744" cy="132" r="4" fill="#b99a55"/>
+  <path d="M756 132 H898" stroke="#b99a55" stroke-width="1"/>
+  <text x="270" y="163" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="1.1" fill="#c8d8ce">PhD researcher · audio-visual deepfake detection</text>
+  <text x="270" y="204" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#d1b36b">seeking the signal beneath the illusion</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" letter-spacing="0.6">
+    <rect x="270" y="232" width="92" height="31" rx="15.5" fill="#0d3f33" stroke="#2f8064"/>
+    <text x="292" y="252" fill="#c7ded3">speech</text>
+    <rect x="373" y="232" width="82" height="31" rx="15.5" fill="#0d3f33" stroke="#2f8064"/>
+    <text x="395" y="252" fill="#c7ded3">video</text>
+    <rect x="466" y="232" width="96" height="31" rx="15.5" fill="#0d3f33" stroke="#2f8064"/>
+    <text x="486" y="252" fill="#c7ded3">emotion</text>
+    <rect x="573" y="232" width="215" height="31" rx="15.5" fill="#321720" stroke="#71303d"/>
+    <text x="594" y="252" fill="#dec5c8">identity-independent AI</text>
+  </g>
+
+  <!-- mountains and constellation -->
+  <g fill="none" stroke="#527c72" stroke-width="1.5" opacity="0.7">
+    <path d="M808 228 L851 170 L878 201 L909 149 L967 228"/>
+    <path d="M830 201 L850 180 L861 193 M887 188 L908 158 L925 184"/>
+  </g>
+  <g stroke="#c6a95f" stroke-width="1" opacity="0.75">
+    <path d="M821 70 L854 88 L887 62 L918 91 L952 72"/>
+    <circle cx="821" cy="70" r="3" fill="#c6a95f"/>
+    <circle cx="854" cy="88" r="2.5" fill="#c6a95f"/>
+    <circle cx="887" cy="62" r="3" fill="#c6a95f"/>
+    <circle cx="918" cy="91" r="2.5" fill="#c6a95f"/>
+    <circle cx="952" cy="72" r="3" fill="#c6a95f"/>
+  </g>
+</svg>
