@@ -19,7 +19,7 @@ research = {
 ## Current role
 
 **AI Engineer · Blue Raven**  
-Permanent part-time · September 2025 to present  
+Permanent part-time · 2025 to present  
 AI-native company focused on preventing financial fraud.
 
 ## Research areas
