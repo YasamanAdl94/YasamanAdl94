@@ -1,34 +1,40 @@
 <div align="center">
 
-![Yasmin — PhD researcher in deepfake detection](./assets/yasmin-fantasy-banner.svg)
+![Yasmin: PhD researcher in deepfake detection](./assets/yasmin-executive-console.svg)
 
 </div>
 
-### Welcome to my corner of the map.
+## Profile
 
-I’m **Yasmin**, a PhD researcher in Electrical and Computer Engineering at Toronto Metropolitan University. I study the signals left behind when audio or video is manipulated—and how to stop detection models from taking the easy route by memorizing identities.
+I’m **Yasmin**, a PhD researcher in Electrical and Computer Engineering at Toronto Metropolitan University. I design and evaluate deepfake detection systems that identify manipulation signals without relying on speaker or facial identity as a shortcut.
 
-> **My guiding rule:** learn the artifact, not the person.
+```python
+research = {
+    "focus": "identity-independent deepfake detection",
+    "modalities": ["audio", "video", "emotion"],
+    "priority": "generalization beyond familiar datasets",
+}
+```
 
-#### The research trail
+## Research areas
 
-- 🎧 **Synthetic speech** — detecting generated and manipulated audio
-- 🎞️ **Audio-visual forensics** — reasoning across sound and vision
-- 🧭 **Identity independence** — finding and reducing identity shortcuts
-- 🌍 **Generalization** — testing beyond one dataset or familiar conditions
-- 🧠 **Emotion and representation learning** — exploring complementary signals responsibly
+- **Synthetic speech detection:** Identifying generated and manipulated audio
+- **Audio-visual forensics:** Reasoning across sound and vision
+- **Identity independence:** Measuring and reducing identity leakage
+- **Cross-dataset generalization:** Evaluating models under unfamiliar conditions
+- **Emotion and representation learning:** Studying complementary detection signals
 
-#### From the archive
+## Selected publication
 
 **A Survey on Speech Deepfake Detection**  
 *ACM Computing Surveys*, 2025 · [DOI: 10.1145/3714458](https://doi.org/10.1145/3714458)
 
-#### Tools carried along the way
+## Technical stack
 
 `Python` · `PyTorch` · `Hugging Face` · `wav2vec 2.0 / XLS-R` · `audio signal processing` · `computer vision` · `representation learning`
 
-#### Elsewhere
+## Links
 
 [Academic website](https://yasamanadl94.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=V6eIVVYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/yahmadiadli/) · [ORCID](https://orcid.org/0000-0003-0740-9557)
 
-<sub>Toronto, Canada · Following artifacts, questioning shortcuts, and occasionally negotiating with GPUs.</sub>
+<sub>Toronto, Canada · Researching artifacts, representations, and robust detection systems.</sub>
