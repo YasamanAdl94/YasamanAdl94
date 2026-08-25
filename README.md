@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yasmin — PhD researcher in deepfake detection](./assets/github-profile-hero.svg)
+![Yasmin — PhD researcher in deepfake detection](./assets/yasmin-fantasy-banner.svg)
 
 </div>
 
