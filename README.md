@@ -16,6 +16,12 @@ research = {
 }
 ```
 
+## Current role
+
+**AI Engineer · Blue Raven**  
+Permanent part-time · September 2025 to present  
+AI-native company focused on preventing financial fraud. Currently operating in stealth mode.
+
 ## Research areas
 
 - **Synthetic speech detection:** Identifying generated and manipulated audio
